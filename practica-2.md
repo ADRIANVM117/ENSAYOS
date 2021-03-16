@@ -7,4 +7,4 @@
 
 Esto es un texto 
 
-Esto es un link a [la practica 1](.practica-1.md)
+Esto es un link a [la practica 1](./practica-1.md)
