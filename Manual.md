@@ -35,11 +35,19 @@ te devuelve en que ruta estas parado.
 ## markdown
 - Formato ligero para archivos en Github.
 - aqui hice los links, Nomenclatura < [texto del link ](./ruta/al/archivo_destino)>
-## mv <nombre archivo original> <archivo nuevo >.
+- Este es un [Manual de Markdown](https://www.markdownguide.org/basic-syntax/)
+
+## `mv` <nombre archivo original> <archivo nuevo >.
 - cambia el nombre del nuevo archivo.
-
-
- 
 -  
 
+
+## Esto es un bloque de codigo
+
+```
+Esto es para escribir codigo python
+
+import pandas as pd
+
+```
 
